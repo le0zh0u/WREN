@@ -1,0 +1,32 @@
+{
+  "name": "wren",
+  "version": "1.0.0",
+  "description": "a simple demo about webpack + react + express + nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le0zh0u/WREN.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "express",
+    "nodejs"
+  ],
+  "author": "le0zh0u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/le0zh0u/WREN/issues"
+  },
+  "homepage": "https://github.com/le0zh0u/WREN#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.5",
+    "css-loader": "^0.24.0",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
